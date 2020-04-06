@@ -1,0 +1,28 @@
+.content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 100%;
+}
+
+h4 {
+    text-align: center;
+}
+
+#display {
+    width: 100%;
+}
+
+#slider {
+    width: 100%;
+}
+
+#length {
+    display: inline-block;
+    width: 100px;
+}
+
+.previous_passwords {
+    margin-bottom: 20px;
+}

@@ -1,1 +1,1 @@
-# Password_Generator
+# This is a password generator with a 50 digit limit
